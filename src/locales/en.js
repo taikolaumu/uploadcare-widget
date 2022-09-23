@@ -15,7 +15,7 @@ const translations = {
     createGroup: 'Can’t create file group',
     deleted: 'File was deleted'
   },
-  draghere: 'Drop a file here',
+  draghere: 'Drop an image here',
   file: {
     one: '%1 file',
     other: '%1 files'
@@ -25,8 +25,8 @@ const translations = {
     remove: 'Remove',
     choose: {
       files: {
-        one: 'Choose a file',
-        other: 'Choose files'
+        one: 'Choose an image',
+        other: 'Choose images'
       },
       images: {
         one: 'Choose an image',
@@ -60,8 +60,8 @@ const translations = {
         nft: 'NFT'
       },
       file: {
-        drag: 'drag & drop<br>any files',
-        nodrop: 'Upload files from your&nbsp;computer',
+        drag: 'drag & drop<br>any photos',
+        nodrop: 'Upload photos from your&nbsp;computer',
         cloudsTip: 'Cloud storages<br>and social networks',
         or: 'or',
         button: 'Choose a local file',
